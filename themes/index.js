@@ -268,6 +268,12 @@ const themes = {
     icon_color: "ff1aff",
     text_color: "8080ff",
     bg_color: "141439",
+  },
+  forty: {
+  	title_color: "8d82c4",
+  	icon_color: "ec8d81",
+  	text_color: "9bf1ff",
+  	bg_color: "242943",
   }
 };
 
